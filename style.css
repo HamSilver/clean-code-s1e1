@@ -23,7 +23,7 @@
 .content {
   width: 500px;
   margin: 0 auto;
-  padding-top:16px;
+  padding-top: 16px;
 }
 .tasklist__label,
 .task {
@@ -32,7 +32,7 @@
   flex-grow: 1;
 }
 .new-task__wrapper {
-  padding:20px 0 16px;
+  padding: 20px 0 16px;
   display: flex;
 }
 .tasklist {
