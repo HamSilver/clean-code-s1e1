@@ -16,9 +16,11 @@
   font-family: fantasy, cursive;
 }
 @media (max-width: 768px) {
+
   .header {
     text-align: center;
   }
+
 }
 .content {
   width: 500px;
